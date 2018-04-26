@@ -11,7 +11,7 @@
 
 # [贡献者名单](https://github.com/USTC-Courses/CS/graphs/contributors)
 # [仓库动态](https://github.com/USTC-Courses/CS/pulse)
-
+# [网页浏览版(]https://mbinary.coding.me/ustc-cs/)
 
 # 管理与投稿
 非常欢迎大家的参与与贡献
