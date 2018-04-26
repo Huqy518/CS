@@ -17,7 +17,7 @@
 * 学习心得与经验
 
 # 贡献者名单
-[点这里](https://github.com/mbinary/USTC-CS-Courses-Resource/graphs/contributors)
+[点这里](https://github.com/USTC-Courses/CS/graphs/contributors)
 
 # 课程目录
 ```
