@@ -20,6 +20,7 @@
 [点这里](https://github.com/mbinary/USTC-CS-Courses-Resource/graphs/contributors)
 
 # 课程目录
+```
  tmp
  │   └ pic
  ├ 公选课
@@ -55,8 +56,8 @@
  │   └ README.md
  └ 自由选修-经管类
      ├ 会计学原理
-             └ 微观经济学
-             
+             └ 微观经济学
+``` 
 # 版权声明
 所有资源,著作权归原作者所有, 此repo的目的是**`学习交流`**.
 如果使用者的不当使用造成不良后果, 与此repo的贡献者无关.
