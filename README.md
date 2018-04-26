@@ -6,7 +6,7 @@
 
 投稿方式建议fork & PR,也可以发给管理员,帮忙上传 
 
-若想帮忙管理(collaborator), 请联系我(qq:414313516  gmail:zhuheqin1).
+若想帮忙管理(collaborator), 请联系管理员
 
 # 结构
 每门课程大致结构如下,某些栏目可有可无
@@ -18,7 +18,8 @@
 
 # 贡献者名单
 [点这里](https://github.com/USTC-Courses/CS/graphs/contributors)
-
+# 仓库动态
+[点这里](https://github.com/USTC-Courses/CS/pulse)
 # 课程目录
 ```
  tmp
